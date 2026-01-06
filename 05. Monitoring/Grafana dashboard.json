@@ -1,0 +1,15 @@
+{
+  "dashboard": {
+    "title": "Database Monitoring Dashboard",
+    "panels": [
+      {
+        "type": "graph",
+        "title": "CPU Usage"
+      },
+      {
+        "type": "graph",
+        "title": "DB Connections"
+      }
+    ]
+  }
+}

@@ -1,0 +1,3 @@
+# Cron job schedule
+0 2 * * * /scripts/Daily health check.sh
+0 3 * * 0 /scripts/Cleanup logos.sh
